@@ -1,1 +1,5 @@
+# Игнорирвать файл settings.ini
 settings.ini
+
+# Игнорирвать venv
+venv/
